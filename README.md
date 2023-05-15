@@ -3,4 +3,4 @@
 
 Проект создан при использовании технологий HTML и CSS
 
-ссылка: https://github.com/v02r/russian-travel.git
+ссылка: https://v02r.github.io/russian-travel/
